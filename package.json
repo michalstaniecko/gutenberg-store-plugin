@@ -13,6 +13,7 @@
     "@wordpress/scripts": "^26.11.0"
   },
   "dependencies": {
+    "@wordpress/data": "^9.10.0",
     "@wordpress/i18n": "^4.40.0"
   }
 }
